@@ -3,6 +3,8 @@
 
 #The code starts here
 
+It's a code for generating my MIORPA data. It's can be runned in GAP
+
 
 AnalyzeGroups := function(start_n, end_n, filename)
 
