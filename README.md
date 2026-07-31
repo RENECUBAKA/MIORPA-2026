@@ -3,6 +3,7 @@
 
 
 AnalyzeGroups := function(start_n, end_n, filename)
+
     local output, header, groups, i, G, group_id, center_size, classes, num_classes,
           sizes, sorted_sizes, size_set, rank,
           class_size_sum, element_count, ratio, nilpotent, solvable, derived_length,
